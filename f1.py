@@ -6,3 +6,6 @@ def f(a, b, c):
 
 def affiche(resultat):
     print(resultat)
+
+def ditBonjour():
+    print("Bonjour Madame")	
